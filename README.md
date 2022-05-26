@@ -1,5 +1,5 @@
 Vowel_Triangle
-This repo is for codes for Vowel Vowel_Triangle Area calculation. Written in python and MATLAb
+This repo is for codes for formant estimation in noisy and reverbed environments and consequemnt Vowel Vowel_Triangle Area calculation. Written in python and MATLAb
 
 Script Details :
 
